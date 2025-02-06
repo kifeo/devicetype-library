@@ -1,0 +1,197 @@
+--
+manufacturer: Fortinet
+model: FortiSwitch 2048F
+slug: fortinet-fs-2048f
+part_number: FS-2048F
+u_height: 1
+weight: 21.78
+weight_unit: lb
+is_full_depth: false
+comments: '[Datasheet](https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/FortiSwitch_Data_Center_Series.pdf)'
+airflow: front-to-rear
+console-ports:
+  - name: Console
+    type: rj-45
+module-bays:
+  - name: PSU1
+    position: '1'
+  - name: PSU2
+    position: '2'
+  - name: port1
+    position: '1'
+    description: 'sfp28 port'
+  - name: port2
+    position: '2'
+    description: 'sfp28 port'
+  - name: port3
+    position: '3'
+    description: 'sfp28 port'
+  - name: port4
+    position: '4'
+    description: 'sfp28 port'
+  - name: port5
+    position: '5'
+    description: 'sfp28 port'
+  - name: port6
+    position: '6'
+    description: 'sfp28 port'
+  - name: port7
+    position: '7'
+    description: 'sfp28 port'
+  - name: port8
+    position: '8'
+    description: 'sfp28 port'
+  - name: port9
+    position: '9'
+    description: 'sfp28 port'
+  - name: port10
+    position: '10'
+    description: 'sfp28 port'
+  - name: port11
+    position: '11'
+    description: 'sfp28 port'
+  - name: port12
+    position: '12'
+    description: 'sfp28 port'
+  - name: port13
+    position: '13'
+    description: 'sfp28 port'
+  - name: port14
+    position: '14'
+    description: 'sfp28 port'
+  - name: port15
+    position: '15'
+    description: 'sfp28 port'
+  - name: port16
+    position: '16'
+    description: 'sfp28 port'
+  - name: port17
+    position: '17'
+    description: 'sfp28 port'
+  - name: port18
+    position: '18'
+    description: 'sfp28 port'
+  - name: port19
+    position: '19'
+    description: 'sfp28 port'
+  - name: port20
+    position: '20'
+    description: 'sfp28 port'
+  - name: port21
+    position: '21'
+    description: 'sfp28 port'
+  - name: port22
+    position: '22'
+    description: 'sfp28 port'
+  - name: port23
+    position: '23'
+    description: 'sfp28 port'
+  - name: port24
+    position: '24'
+    description: 'sfp28 port'
+  - name: port25
+    position: '25'
+    description: 'sfp28 port'
+  - name: port26
+    position: '26'
+    description: 'sfp28 port'
+  - name: port27
+    position: '27'
+    description: 'sfp28 port'
+  - name: port28
+    position: '28'
+    description: 'sfp28 port'
+  - name: port29
+    position: '29'
+    description: 'sfp28 port'
+  - name: port30
+    position: '30'
+    description: 'sfp28 port'
+  - name: port31
+    position: '31'
+    description: 'sfp28 port'
+  - name: port32
+    position: '32'
+    description: 'sfp28 port'
+  - name: port33
+    position: '33'
+    description: 'sfp28 port'
+  - name: port34
+    position: '34'
+    description: 'sfp28 port'
+  - name: port35
+    position: '35'
+    description: 'sfp28 port'
+  - name: port36
+    position: '36'
+    description: 'sfp28 port'
+  - name: port37
+    position: '37'
+    description: 'sfp28 port'
+  - name: port38
+    position: '38'
+    description: 'sfp28 port'
+  - name: port39
+    position: '39'
+    description: 'sfp28 port'
+  - name: port40
+    position: '40'
+    description: 'sfp28 port'
+  - name: port41
+    position: '41'
+    description: 'sfp28 port'
+  - name: port42
+    position: '42'
+    description: 'sfp28 port'
+  - name: port43
+    position: '43'
+    description: 'sfp28 port'
+  - name: port44
+    position: '44'
+    description: 'sfp28 port'
+  - name: port45
+    position: '45'
+    description: 'sfp28 port'
+  - name: port46
+    position: '46'
+    description: 'sfp28 port'
+  - name: port47
+    position: '47'
+    description: 'sfp28 port'
+  - name: port48
+    position: '48'
+    description: 'sfp28 port'
+  - name: port49
+    position: '49'
+    description: 'qsfp28 port'
+  - name: port50
+    position: '50'
+    description: 'qsfp28 port'
+  - name: port51
+    position: '51'
+    description: 'qsfp28 port'
+  - name: port52
+    position: '52'
+    description: 'qsfp28 port'
+  - name: port53
+    position: '53'
+    description: 'qsfp28 port'
+  - name: port54
+    position: '54'
+    description: 'qsfp28 port'
+  - name: port55
+    position: '55'
+    description: 'qsfp28 port'
+  - name: port56
+    position: '56'
+    description: 'qsfp28 port'
+  - name: port57
+    position: '57'
+    description: 'sfp+ port'
+  - name: port58
+    position: '58'
+    description: 'sfp+ port'
+interfaces:
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true
